@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">RecuperaDataCM</string>
+    <string-array name="dias_da_semana">
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+        <item>Terca-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sabado</item>
+    </string-array>
 </resources>

@@ -5,11 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.recuperadatacm"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.example.recuperadatacm"
@@ -54,3 +50,4 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
 }
+
