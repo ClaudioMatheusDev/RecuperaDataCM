@@ -3,10 +3,10 @@
     <string-array name="dias_da_semana">
         <item>Domingo</item>
         <item>Segunda-feira</item>
-        <item>Terca-feira</item>
+        <item>Terça-feira</item>
         <item>Quarta-feira</item>
         <item>Quinta-feira</item>
         <item>Sexta-feira</item>
-        <item>Sabado</item>
+        <item>Sábado</item>
     </string-array>
 </resources>
